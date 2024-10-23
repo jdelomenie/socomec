@@ -6,7 +6,7 @@
   <!-- nodes -->
 
 <INVOKE TIMEOUT="" SERVICE="pub.flow:debugLog" VALIDATE-IN="$none" VALIDATE-OUT="$none">
-  <COMMENT>*** logs for ERT ***</COMMENT>
+  <COMMENT></COMMENT>
 
   <!-- nodes -->
 
