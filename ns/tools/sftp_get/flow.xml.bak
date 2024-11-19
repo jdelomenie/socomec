@@ -6,7 +6,7 @@
   <!-- nodes -->
 
 <INVOKE TIMEOUT="" SERVICE="pub.flow:debugLog" VALIDATE-IN="$none" VALIDATE-OUT="$none">
-  <COMMENT>*** logs for ERT ***</COMMENT>
+  <COMMENT></COMMENT>
 
   <!-- nodes -->
 
@@ -151,7 +151,7 @@
   <DATA ENCODING="XMLValues" I18N="true">
 
 <Values version="2.0">
-  <value name="xml">*** SFTP get from Edge runtime ***</value>
+  <value name="xml">*** SFTP from Edge runtime ***</value>
   <record name="type" javaclass="com.wm.util.Values">
     <value name="node_type">field</value>
     <value name="node_subtype">unknown</value>
